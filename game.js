@@ -201,8 +201,8 @@
 
     if (state === "start") {
       banner([
-        ["PETUALANGAN CINTA", 22, "#ffd54a"],
-        [`${CONFIG.years} TAHUN BERSAMA`, 14, "#ff9ec2"],
+        ["HAPPY MENSIVERSARY", 22, "#ffd54a"],
+        [`${CONFIG.years} BULAN BERSAMA`, 14, "#ff9ec2"],
         ["Tekan SPASI / tombol LOMPAT", 11, "#fff"],
         ["Capai bendera hati di ujung level!", 10, "#c9b8ff"],
       ]);
